@@ -1,0 +1,6 @@
+Game of life rules 
+
+
+1. une cellule morte avec trois cellules voisine vivante = prend vie
+
+2. une cellule vivante avec deux ou trois cellules voisine vivante reste vivante sinon elle meurt (donc moins de deux cellules voisine vivante ou plus de trois cellules voisines vivantes)
